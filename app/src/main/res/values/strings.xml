@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="msg_http_error" formatted="false" >HTTP Error: %d</string>
+    <string name="msg_http_404_error">HTTP Error: 404</string>
+    <string name="label_btn_ok">OK</string>
+    <string name="title_success">Success</string>
+    <string name="title_error">Error</string>
+</resources>
